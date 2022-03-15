@@ -1,2 +1,2 @@
 # Sample_Code
- A collection of some scraps of code from my projects.
+ A collection of some pieces of code from my projects.
